@@ -102,7 +102,7 @@
       <Version>5.1.1</Version>
     </PackageReference>
     <PackageReference Include="SpotifyAPI.Web.Auth">
-      <Version>4.1.0</Version>
+      <Version>5.1.1</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
